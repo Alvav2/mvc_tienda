@@ -1,0 +1,44 @@
+# 🛍️ Sistema MVC - Registro de Productos (PHP)
+
+Este proyecto implementa la arquitectura **MVC** usando PHP sin frameworks. Permite registrar, listar y eliminar productos en una tienda.
+
+## 📁 Estructura del proyecto
+```
+└── 📁mvc_tienda
+    └── 📁controlador
+        ├── controlador.php
+    └── 📁css
+        ├── estilos.css
+    └── 📁datos
+        ├── productos.txt
+    └── 📁modelo
+        ├── modelo.php
+    └── 📁vista
+        ├── agregar.php
+        ├── listar.php
+        ├── menu.php
+        ├── plantilla.php
+    └── index.php
+```
+
+## 🚀 Funcionalidades
+
+- Agregar productos (nombre, categoría, precio)
+- Listar productos registrados
+- Eliminar productos
+- Interfaz básica con CSS
+
+## 💻 Requisitos
+
+- PHP (XAMPP)
+- Navegador web
+- Visual Studio Code
+
+## 📦 Ejecución
+
+1. Coloca la carpeta en `htdocs` de XAMPP
+2. Inicia Apache
+3. Accede desde el navegador: `http://localhost/mvc_tienda`
+
+## 🙋 Alvaro
+
