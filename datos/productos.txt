@@ -1,0 +1,4 @@
+Xbox,Consolas,999.9
+PS5,Consolas,1299.99
+POCO F8,Celulares,1699.00
+Iphone 18 ,Celulares,2099.99
