@@ -5,6 +5,10 @@ Este proyecto implementa la arquitectura **MVC** usando PHP sin frameworks. Perm
 ## 📁 Estructura del proyecto
 ```
 └── 📁mvc_tienda
+    └── 📁capturas
+        ├── formulario.png
+        ├── listado.png
+        ├── menu.png
     └── 📁controlador
         ├── controlador.php
     └── 📁css
@@ -18,7 +22,7 @@ Este proyecto implementa la arquitectura **MVC** usando PHP sin frameworks. Perm
         ├── listar.php
         ├── menu.php
         ├── plantilla.php
-    └── index.php
+    ├── index.php
     └── README.md
 ```
 ## 📸 Capturas de pantalla
