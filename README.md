@@ -19,8 +19,18 @@ Este proyecto implementa la arquitectura **MVC** usando PHP sin frameworks. Perm
         ├── menu.php
         ├── plantilla.php
     └── index.php
+    └── README.md
 ```
+## 📸 Capturas de pantalla
 
+### 🧭 Menú principal
+![Menú](capturas/menu.png)
+
+### 📝 Formulario de producto
+![Formulario](capturas/formulario.png)
+
+### 📋 Listado de productos
+![Listado](capturas/listado.png)
 ## 🚀 Funcionalidades
 
 - Agregar productos (nombre, categoría, precio)
