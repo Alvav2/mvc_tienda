@@ -54,5 +54,6 @@ Este proyecto implementa la arquitectura **MVC** usando PHP sin frameworks. Perm
 2. Inicia Apache
 3. Accede desde el navegador: `http://localhost/mvc_tienda`
 
-## 🙋 Alvaro
+## © 2025 Alvaro — [Alvav2](https://github.com/Alvav2)
+
 
